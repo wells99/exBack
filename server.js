@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('servidor Ok');
+  res.send({ status: 'Ok', message: 'servidor rodando' });
 });
 
 app.use('/api', router)
