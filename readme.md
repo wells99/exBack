@@ -30,12 +30,10 @@ URL: http://localhost:3000/animes
 Corpo (JSON):
 
 JSON
-
 {
   "nome": "Chainsaw Man",
   "votos": 0
 }
-
 3. Buscar por ID
 Filtra um anime específico através do seu identificador.
 
@@ -53,12 +51,10 @@ URL: http://localhost:3000/animes/1
 Corpo (JSON):
 
 JSON
-
 {
   "nome": "Naruto Shippuden",
   "votos": 10
 }
-
 5. Incrementar Voto (+1)
 Rota customizada para adicionar apenas 1 voto ao contador atual.
 
