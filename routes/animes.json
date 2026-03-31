@@ -1,0 +1,50 @@
+[ {
+   "id": 1,
+   "nome": "Attack on Titan",
+   "votos": 8
+ },
+ {
+   "id": 2,
+   "nome": "Fullmetal Alchemist: Brotherhood",
+   "votos": 9
+ },
+ {
+   "id": 3,
+   "nome": "Demon Slayer: Kimetsu no Yaiba",
+   "votos": 7
+ },
+ {
+   "id": 4,
+   "nome": "Bleach",
+   "votos": 7
+ }, {
+   "id": 5,
+   "nome": "Soul Eater",
+   "votos": 7
+ },
+ {
+   "id": 6,
+   "nome": "Hunter x Hunter (2011)",
+   "votos": 7
+ },
+ {
+   "id": 7,
+   "nome": "Dragon Ball Z",
+   "votos": 8
+ },
+ {
+   "id": 8,
+   "nome": "CavaLeiros do Zodiaco'",
+   "votos": 5
+ },
+ {
+   "id": 9,
+   "nome": "One Piece",
+   "votos": 3
+ },
+ {
+   "id": 10,
+   "nome": "Frieren: Beyond Journey's End",
+   "votos": 9
+ }
+]
