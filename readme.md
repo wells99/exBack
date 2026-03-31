@@ -34,6 +34,8 @@ JSON
   "nome": "Chainsaw Man",
   "votos": 0
 }
+
+----------------------------------------------------------------------------------------------
 3. Buscar por ID
 Filtra um anime específico através do seu identificador.
 
@@ -55,6 +57,8 @@ JSON
   "nome": "Naruto Shippuden",
   "votos": 10
 }
+
+----------------------------------------------------------------------------------------------
 5. Incrementar Voto (+1)
 Rota customizada para adicionar apenas 1 voto ao contador atual.
 
