@@ -30,6 +30,7 @@ URL: http://localhost:3000/animes
 Corpo (JSON):
 
 JSON
+
 {
   "nome": "Chainsaw Man",
   "votos": 0
@@ -52,6 +53,7 @@ URL: http://localhost:3000/animes/1
 Corpo (JSON):
 
 JSON
+
 {
   "nome": "Naruto Shippuden",
   "votos": 10
